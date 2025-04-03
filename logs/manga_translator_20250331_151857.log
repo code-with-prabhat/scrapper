@@ -1,0 +1,41 @@
+2025-03-31 15:18:57,817 - INFO - Manga Translator Script Started
+2025-03-31 15:18:57,817 - INFO - Current working directory: C:\Users\prabhat\Desktop\Web Project\scrapper
+2025-03-31 15:18:57,817 - INFO - Command line arguments:
+2025-03-31 15:18:57,817 - INFO - Input Directory: image_for_translations
+2025-03-31 15:18:57,817 - INFO - Output Directory: my_translations
+2025-03-31 15:18:57,817 - INFO - Source Language: ko
+2025-03-31 15:18:57,817 - INFO - Target Language: en
+2025-03-31 15:18:57,817 - INFO - Created output directory: my_translations
+2025-03-31 15:18:57,822 - INFO - Found 2 images to process
+2025-03-31 15:18:57,822 - INFO - Processing image: Screenshot 2025-03-31 150024.png
+2025-03-31 15:18:57,822 - INFO - Initializing OCR for ko
+2025-03-31 15:18:57,822 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-03-31 15:18:59,560 - INFO - Loading image: image_for_translations\Screenshot 2025-03-31 150024.png
+2025-03-31 15:18:59,571 - INFO - Detecting text in image
+2025-03-31 15:19:00,374 - INFO - Loading font
+2025-03-31 15:19:00,376 - INFO - Loaded Windows Korean font (malgun.ttf)
+2025-03-31 15:19:00,376 - INFO - Found 6 text segments to translate
+2025-03-31 15:19:01,495 - INFO - Translated text 2: \ud3b8\ud558\uac8c \uc790\ube60\uc838 -> Fallen comfortably
+2025-03-31 15:19:02,402 - INFO - Translated text 3: \ub290\ub07c\uace0\ub9cc \uc788\uc5b4? -> Do you feel?
+2025-03-31 15:19:02,902 - INFO - Translated text 4: \ub450 \uc0ac\ub78c \uc11c\ub85c -> Both each other
+2025-03-31 15:19:03,869 - INFO - Translated text 5: \ud654\ud574\uc758 \uc758\ubbf8\ub85c -> In the sense of reconciliation
+2025-03-31 15:19:04,604 - INFO - Translated text 6: \ud0a4\uc2a4\ub77c\ub3c4 \ud574\uc57c\uc9c0. -> I have to kiss.
+2025-03-31 15:19:04,647 - INFO - Saved translated image: my_translations\translated_Screenshot 2025-03-31 150024.png
+2025-03-31 15:19:04,647 - INFO - Processing image: Screenshot 2025-03-31 150051.png
+2025-03-31 15:19:04,647 - INFO - Initializing OCR for ko
+2025-03-31 15:19:04,647 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-03-31 15:19:06,440 - INFO - Loading image: image_for_translations\Screenshot 2025-03-31 150051.png
+2025-03-31 15:19:06,440 - INFO - Detecting text in image
+2025-03-31 15:19:07,038 - INFO - Loading font
+2025-03-31 15:19:07,038 - INFO - Loaded Windows Korean font (malgun.ttf)
+2025-03-31 15:19:07,038 - INFO - Found 4 text segments to translate
+2025-03-31 15:19:08,305 - INFO - Translated text 1: \uadf8\ub798\ub3c4. -> still.
+2025-03-31 15:19:08,767 - INFO - Translated text 2: \ub458\uc774 -> Two
+2025-03-31 15:19:09,282 - INFO - Translated text 3: \uc0ac\uc774\uc88b\uc544\uc800\uc11c -> Goodbye
+2025-03-31 15:19:10,714 - INFO - Translated text 4: \ubcf4\uae30 \uc885\ub124. -> Look at it.
+2025-03-31 15:19:10,742 - INFO - Saved translated image: my_translations\translated_Screenshot 2025-03-31 150051.png
+2025-03-31 15:19:10,742 - INFO - Translation Summary:
+2025-03-31 15:19:10,742 - INFO - Total images: 2
+2025-03-31 15:19:10,742 - INFO - Successfully translated: 2
+2025-03-31 15:19:10,742 - INFO - Failed: 0
+2025-03-31 15:19:10,742 - INFO - Script completed successfully
